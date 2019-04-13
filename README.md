@@ -6,13 +6,24 @@
 
 # Langkah Pertama 
 ```
-Melakukan Fork dari repository berikut : Buka Link https://github.com/abuazzam/uaspy setelah itu Clone ke lokal repository. 
+a).Melakukan Fork dari repository berikut : Buka Link https://github.com/abuazzam/uaspy setelah itu Clone ke lokal repository. 
 ```
 Berikut Screenshootnya : 
 
 
 
 ![img](https://github.com/zaenalmusthofa86/uaspy/blob/master/lgkhimg/lkh1.PNG)
+
+
+```
+b).Kemudian clone URL Repositori,disini saya memakai gitbash.
+```
+Berikut Screenshootnya : 
+
+
+
+![img](https://github.com/zaenalmusthofa86/uaspy/blob/master/lgkhimg/clone.PNG)
+
 
 
 #Langkah Kedua
